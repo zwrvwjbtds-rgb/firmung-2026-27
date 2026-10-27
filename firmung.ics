@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Firmvorbereitung Neckar-Aich//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Firmvorbereitung 2026/27
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:firm2627-0@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20261117T200000
+DTEND;TZID=Europe/Berlin:20261117T213000
+SUMMARY:1. Elternabend (Grötzingen)
+LOCATION:Grötzingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-1@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+DTEND;TZID=Europe/Berlin:20261118T213000
+SUMMARY:1. Elternabend (Neckartenzlingen)
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-2@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20261122T103000
+DTEND;TZID=Europe/Berlin:20261122T120000
+SUMMARY:Jugendgottesdienst + Firminfo für Jugendliche
+LOCATION:St. Josef\, Harthausen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – Endzeit geschätzt
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-3@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20261206T163000
+DTEND;TZID=Europe/Berlin:20261206T180000
+SUMMARY:Firm-Treffen 1: Adventliches Kennenlernen
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – mit Gruppenbildung
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-4@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20261219T093000
+DTEND;TZID=Europe/Berlin:20261219T123000
+SUMMARY:Firm-Treffen 2: Ich-Du-Wir
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-5@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20261224T170000
+DTEND;TZID=Europe/Berlin:20261224T180000
+SUMMARY:Jugend-Weihnachtsgottesdienst
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – freiwilliges Angebot\; Endzeit geschätzt
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-6@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270116T143000
+DTEND;TZID=Europe/Berlin:20270116T173000
+SUMMARY:Firm-Treffen 3: Gott-Jesus-DU
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-7@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270130T093000
+DTEND;TZID=Europe/Berlin:20270130T123000
+SUMMARY:Firm-Treffen 4: Auferstehung schenkt Kraft und Hoffnung
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-8@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270220T093000
+DTEND;TZID=Europe/Berlin:20270220T123000
+SUMMARY:Firm-Treffen 5: Glaube und Zweifel
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-9@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270228T103000
+DTEND;TZID=Europe/Berlin:20270228T114500
+SUMMARY:Halbzeitgottesdienst der Firmvorbereitung
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – mit Projektchor\; Endzeit geschätzt
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-10@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270309T200000
+DTEND;TZID=Europe/Berlin:20270309T213000
+SUMMARY:2. Elternabend (Grötzingen)
+LOCATION:Grötzingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-11@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270310T200000
+DTEND;TZID=Europe/Berlin:20270310T213000
+SUMMARY:2. Elternabend (Neckartenzlingen)
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-12@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270312T170000
+DTEND;TZID=Europe/Berlin:20270314T113000
+SUMMARY:1. Besinnungswochenende: Mit dem Heiligen Geist bestärkt
+LOCATION:Jugendherberge Bad Urach
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-13@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270325T183000
+DTEND;TZID=Europe/Berlin:20270325T213000
+SUMMARY:Ölberggang + Liturgische Nacht
+LOCATION:Maria Hilf\, Grötzingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-14@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270409T170000
+DTEND;TZID=Europe/Berlin:20270411T113000
+SUMMARY:2. Besinnungswochenende: Mit dem Heiligen Geist bestärkt
+LOCATION:Jugendherberge Bad Urach
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-15@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270417T090000
+DTEND;TZID=Europe/Berlin:20270417T133000
+SUMMARY:Versöhnungsweg + Firm-Entscheidung
+LOCATION:Grötzingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-16@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270420T190000
+DTEND;TZID=Europe/Berlin:20270420T203000
+SUMMARY:Firmprobe
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – Endzeit geschätzt
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-17@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270421T190000
+DTEND;TZID=Europe/Berlin:20270421T203000
+SUMMARY:Firmprobe
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – Endzeit geschätzt
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-18@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270422T190000
+DTEND;TZID=Europe/Berlin:20270422T203000
+SUMMARY:Firmprobe
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – Endzeit geschätzt
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-19@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270424T100000
+DTEND;TZID=Europe/Berlin:20270424T113000
+SUMMARY:Firmgottesdienst
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – 5 Pers. + Pate:in haben reservierte Plätze\; Endzeit geschätzt
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-20@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270424T150000
+DTEND;TZID=Europe/Berlin:20270424T163000
+SUMMARY:Firmgottesdienst
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – 5 Pers. + Pate:in haben reservierte Plätze\; Endzeit geschätzt
+END:VEVENT
+BEGIN:VEVENT
+UID:firm2627-21@neckar-aich
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=Europe/Berlin:20270425T100000
+DTEND;TZID=Europe/Berlin:20270425T113000
+SUMMARY:Firmgottesdienst
+LOCATION:Neckartenzlingen
+DESCRIPTION:Firmvorbereitung 2026/27 – Gesamtkirchengemeinde Neckar-Aich – 5 Pers. + Pate:in haben reservierte Plätze\; Endzeit geschätzt
+END:VEVENT
+END:VCALENDAR
